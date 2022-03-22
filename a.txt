@@ -1,0 +1,9 @@
+adding text into a.txt in an attempt to create conflict between multiple branches
+
+
+:q! doesn't save
+
+:wq saves
+
+
+THIS IS A FEATURE BRANCH EDIT!
