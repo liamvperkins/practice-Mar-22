@@ -7,3 +7,4 @@ adding text into a.txt in an attempt to create conflict between multiple branche
 
 
 THIS IS A FEATURE BRANCH EDIT!
+This edit in side branch should fail because master branch and side branch aren't up-to-date
