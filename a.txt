@@ -1,0 +1,1 @@
+This edit in side branch should fail because master branch and side branch aren't up-to-date
