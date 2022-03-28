@@ -1,2 +1,6 @@
+
 edit done in my branch
 
+edit done in FeatureBranch trying to create a conflict
+
+A line in this file should already exist that reference the mybranch branch
