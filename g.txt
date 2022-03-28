@@ -1,0 +1,8 @@
+for some reason the line below this already exists in master's g.txt even though I only ever "added' from mybranch
+
+
+editing mybanch's g.txt, then editing master's g.txt before I try to merge mybranch into master. I'm expecting a conflict
+
+why is the line showing up in mybranch when I've only just made the edit in master branch?
+
+no conflict yet so now I'll try without adding.
